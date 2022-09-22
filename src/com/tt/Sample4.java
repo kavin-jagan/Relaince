@@ -26,7 +26,7 @@ public class Sample4 {
 		finally {
 			
 			System.out.println("Success");
-			
+			System.out.println("Brillinat");
 			
 		}
 		System.out.println(5);
