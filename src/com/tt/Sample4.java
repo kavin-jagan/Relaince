@@ -21,7 +21,7 @@ public class Sample4 {
 		
 			
 			
-			System.out.println("dont divide by zero");
+			System.out.println("zero");
 		}
 		finally {
 			
